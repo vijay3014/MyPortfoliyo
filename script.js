@@ -202,7 +202,7 @@ portfolioWebsite.addEventListener("click", () => {
     languages.innerText = "html,css,Tailwind cs,javascript";
     preview.innerText = "Portfolio";
     preview.addEventListener("click", () => {
-        open("https://github.com/ds092002/frontend/blob/main/tailwind/website");
+        open("https://github.com/vijay3014/MyPortfoliyo");
     });
     ProjectImage.src = "./assets/protfolio.png";
 
@@ -210,14 +210,14 @@ portfolioWebsite.addEventListener("click", () => {
     description.classList.add("flex");
 })
 GymSoWebsite.addEventListener("click", () => {
-    websiteName.innerText = "Gym so Website";
+    websiteName.innerText = "EducationM4 Website";
     clientName.innerText = "Skill Code"
     languages.innerText = "html,css";
-    preview.innerText = "GymSo";
+    preview.innerText = "EducationM4";
     preview.addEventListener("click", () => {
-        open("https://github.com/ds092002/frontend/tree/main/CSS/webpage/gym");
+        open("");
     });
-    ProjectImage.src = "./assets/gymso.png";
+    ProjectImage.src = "./assets/Screenshot 2024-10-04 161804.png";
 
     description.classList.remove("hidden");
     description.classList.add("flex");
@@ -225,10 +225,10 @@ GymSoWebsite.addEventListener("click", () => {
 ecomallWebsite.addEventListener("click", () => {
     websiteName.innerText = "Ecomall";
     clientName.innerText = "Skill Code"
-    languages.innerText = "ReactJs, Express Js";
+    languages.innerText = "ReactJs, Node.Js, Express Js";
     preview.innerText = "Ecomall";
     preview.addEventListener("click", () => {
-        open("https://github.com/ds092002/myReact_project");
+        open("");
     });
     ProjectImage.src = "./assets/ecomall.png";
 
@@ -236,12 +236,12 @@ ecomallWebsite.addEventListener("click", () => {
     description.classList.add("flex");
 })
 furnitureWebsite.addEventListener("click", () => {
-    websiteName.innerText = "Homy website";
+    websiteName.innerText = "App UI";
     clientName.innerText = "Skill Code"
-    languages.innerText = "Express Js";
+    languages.innerText = "Node.Js,Express.Js";
     preview.innerText = "Funrniture App";
     preview.addEventListener("click", () => {
-        open("https://github.com/anshchovatiya/CSS/tree/17daa48e4e2d3b778a0a1687ab4aa4e0afe47596/Projects/Homy_website");
+        open("https://github.com/vijay3014/furniture-");
     });
     ProjectImage.src = "./assets/furniture.jpeg";
 
@@ -249,14 +249,14 @@ furnitureWebsite.addEventListener("click", () => {
     description.classList.add("flex");
 })
 budgetAppWebsite.addEventListener("click", () => {
-    websiteName.innerText = "Aplica website";
+    websiteName.innerText = "Ninico website";
     clientName.innerText = "Skill Code"
-    languages.innerText = "html,css, Javascript";
-    preview.innerText = "Budget App page";
+    languages.innerText = "React.Js";
+    preview.innerText = "Ninico";
     preview.addEventListener("click", () => {
-        open("https://github.com/anshchovatiya/CSS/tree/17daa48e4e2d3b778a0a1687ab4aa4e0afe47596/Projects/Aplica_Website_Project");
+        open("");
     });
-    ProjectImage.src = "./assets/budget.png";
+    ProjectImage.src = "./assets/Screenshot 2024-10-04 161426.png";
 
     description.classList.remove("hidden");
     description.classList.add("flex");
